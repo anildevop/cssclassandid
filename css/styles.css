@@ -1,0 +1,21 @@
+body{
+  background-color: #ffeaa5
+}
+h1{
+  font-size:100px;;
+  color: red;
+}
+img{
+  height: 200px;
+  background-color: red;
+  border-radius: 100%;
+}
+.bacon{
+  background-color: green;
+}
+img:hover{
+  background-color: blue;
+}
+#firstheading:hover{
+  color:powderblue;
+}
